@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-[Live Site Link](https://aquamarine-sprinkles-01a6dd.netlify.app/restaurant/52977)
+[Live Site Link](https://aquamarine-sprinkles-01a6dd.netlify.app/restaurant/52977) [https://aquamarine-sprinkles-01a6dd.netlify.app/restaurant/52977]
 
 
 
